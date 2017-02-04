@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+           <style type="text/css">
+           body{
+               background:purple;
+               border:25px dotted #f23;
+               outline-style:dotted;
+               outline-color:white;
+               padding:15px;
+           }
+           
+            h2   {
+               background:orange;
+               color:blue;
+               text-align: center;
+                
+            }   
+           .heads{
+               background:yellowgreen;
+               font-size:20px;
+               text-align: center;
+               
+           }
+           .writing-for-blog{
+              color:blue;
+              opacity:40;
+              background:yellow;
+              font-family:cursive;
+              font-size:17px;
+          }
+          #snow-day-2{
+              color:orange;
+              background:green;
+              font-family:cursive;
+              font-size:17px;
+          }
+          ol{
+              background:black;
+              color:orange;
+          }
+          .img{
+              display:block;
+              margin-left:auto;
+              margin-right:auto;
+          }
