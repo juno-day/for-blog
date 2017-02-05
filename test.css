@@ -1,8 +1,11 @@
 /* myStyle.css */
-body {
- background:#6e07bc;
- border:dotted;
-}
+  body{
+               background:#8801c1;
+               border:25px dotted #f23;
+               outline-style:dotted;
+               outline-color:white;
+               padding:15px;
+           }
     h1   {
                background:orange;
                color:blue;
