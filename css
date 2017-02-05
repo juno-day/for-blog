@@ -5,7 +5,14 @@
                outline-color:white;
                padding:15px;
            }
-           
+        
+            h1   {
+               background:orange;
+               color:blue;
+               text-align: center;
+                
+            }   
+        
             h2   {
                background:orange;
                color:blue;
